@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MXM</title>
+  
+  <subtitle>MHX</subtitle>
+  <link href="https://maomaoxiaoxiao.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://maomaoxiaoxiao.github.io/"/>
+  <updated>2021-02-05T07:42:09.092Z</updated>
+  <id>https://maomaoxiaoxiao.github.io/</id>
+  
+  <author>
+    <name>MaHuxiao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown 语法</title>
+    <link href="https://maomaoxiaoxiao.github.io/2021/02/05/Markdown/"/>
+    <id>https://maomaoxiaoxiao.github.io/2021/02/05/Markdown/</id>
+    <published>2021-02-05T07:36:06.000Z</published>
+    <updated>2021-02-05T07:42:09.092Z</updated>
+    
+    <content type="html"><![CDATA[<p>Markdown 语法<br>在编写 Markdown 时，博主强烈的推荐给大家一款简洁易用的 Markdown 编辑器 —— Typora</p><p>按照官方的说法就是 简单而强大，它不仅支持原生的语法，也支持对应的快捷键，更重要的是它还可以 实时预览</p><p>这里附上 Typora 的下载地址：<a href="https://www.typora.io/%EF%BC%8C%E6%9C%89%E5%85%B4%E8%B6%A3%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%8F%AF%E4%BB%A5%E4%B8%8B%E8%BD%BD%E6%9D%A5%E8%AF%95%E8%AF%95">https://www.typora.io/，有兴趣的朋友可以下载来试试</a></p><p>好，下面开始进入正题，介绍一些常用的 Markdown 语法</p><a id="more"></a> <p>（1）标题<br>Markdown 语法：</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>1<br>2<br>3<br>4<br>5<br>6<br>Typora 快捷键：</p><p>Ctrl+1：一级标题</p><p>Ctrl+2：二级标题</p><p>Ctrl+3：三级标题</p><p>Ctrl+4：四级标题</p><p>Ctrl+5：五级标题</p><p>Ctrl+6 ：六级标题</p><p>Ctrl+0：段落</p><p>（2）粗体、斜体、删除线和下划线<br>Markdown 语法：</p><p><em>斜体</em><br><strong>粗体</strong><br><strong><em>加粗斜体</em></strong><br><del>删除线</del><br>1<br>2<br>3<br>4<br>Typora 快捷键：</p><p>Ctrl+I：斜体</p><p>Ctrl+B：粗体</p><p>Ctrl+U：下划线</p><p>Alt+Shift+5：删除线</p><p>（3）引用块<br>Markdown 语法：</p><blockquote><p>文字引用<br>1<br>Typora 快捷键： Ctrl+Shift+Q</p></blockquote><p>（4）代码块<br>Markdown 语法：</p><p><code>行内代码</code></p><p><code> 多行代码 多行代码 ​</code><br>1<br>2<br>3<br>4<br>5<br>6<br>Typora 快捷键：</p><p>行内代码：Ctrl+Shift+`</p><p>多行代码：Ctrl+Shift+K</p><p>（5）公式块<br>Markdown 语法：</p><p>$$<br>数学公式<br>$$<br>1<br>2<br>3<br>Typora 快捷键： Ctrl+Shift+M</p><p>（6）分割线<br>Markdown 语法：</p><p>方法一：—</p><p>方法二：+++</p><p>方法三：***<br>1<br>2<br>3<br>4<br>5<br>（7）列表<br>Markdown 语法：</p><ol><li>有序列表项</li></ol><ul><li>无序列表项</li></ul><ul><li>无序列表项</li></ul><ul><li>无序列表项<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>Typora 快捷键：</li></ul><p>有序列表项：Ctrl+Shift+[</p><p>无序列表项：Ctrl+Shift+]</p><p>（8）表格<br>Markdown 语法：</p><p>表头1|表头2<br>-|-|-<br>内容11|内容12<br>内容21|内容22<br>1<br>2<br>3<br>4<br>Typora 快捷键： Ctrl+T</p><p>（9）超链接<br>Markdown语法：</p><p>方法一：<a href="%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80" title="链接描述">链接文字</a><br>例如：<a href="https://www.example.com/" title="示例链接">示例链接</a></p><p>方法二：&lt;链接地址&gt;<br>例如：<a href="https://www.example.com/">https://www.example.com/</a><br>1<br>2<br>3<br>4<br>5<br>Typora快捷键： Ctrl+K</p><p>（10）图片<br>Markdown语法：</p><p><img src="%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80" alt="图片文字" title="图片描述"><br>例如：<img src="https://www.example.com/example.PNG" alt="示例图片" title="示例图片"><br>1<br>2<br>Typora快捷键： Ctrl+Shift+I</p><p>说明：在 Hexo中 插入图片时，请按照以下的步骤进行设置</p><p>将 站点配置文件 中的 post_asset_folder 选项的值设置为 true</p><p>在站点文件夹中打开 git bash，输入命令 npm install hexo-asset-image –save 安装插件</p><p>这样，当使用 hexo new title 创建文章时，将同时在 source/_post 文件夹中生成一个与 title 同名的文件夹，我们只需将图片放进此文件夹中，然后在文章中通过 Markdown 语法进行引用即可</p><p>例如，在资源文件夹（就是那个与 title 同名的文件夹）中添加图片 example.PNG，则可以在对应的文章中使用语句 <img src="title/example.PNG" alt="示例图片" title="示例图片"> 添加图片</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Markdown 语法&lt;br&gt;在编写 Markdown 时，博主强烈的推荐给大家一款简洁易用的 Markdown 编辑器 —— Typora&lt;/p&gt;
+&lt;p&gt;按照官方的说法就是 简单而强大，它不仅支持原生的语法，也支持对应的快捷键，更重要的是它还可以 实时预览&lt;/p&gt;
+&lt;p&gt;这里附上 Typora 的下载地址：&lt;a href=&quot;https://www.typora.io/%EF%BC%8C%E6%9C%89%E5%85%B4%E8%B6%A3%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%8F%AF%E4%BB%A5%E4%B8%8B%E8%BD%BD%E6%9D%A5%E8%AF%95%E8%AF%95&quot;&gt;https://www.typora.io/，有兴趣的朋友可以下载来试试&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;好，下面开始进入正题，介绍一些常用的 Markdown 语法&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="学习" scheme="https://maomaoxiaoxiao.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Markdown" scheme="https://maomaoxiaoxiao.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>细胞的结构和类型</title>
+    <link href="https://maomaoxiaoxiao.github.io/2021/02/04/%E7%BB%86%E8%83%9E%E7%9A%84%E7%BB%93%E6%9E%84%E5%92%8C%E7%B1%BB%E5%9E%8B/"/>
+    <id>https://maomaoxiaoxiao.github.io/2021/02/04/%E7%BB%86%E8%83%9E%E7%9A%84%E7%BB%93%E6%9E%84%E5%92%8C%E7%B1%BB%E5%9E%8B/</id>
+    <published>2021-02-04T07:36:06.000Z</published>
+    <updated>2021-02-05T07:51:16.213Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="细胞学说"><a href="#细胞学说" class="headerlink" title="细胞学说"></a>细胞学说</h1><h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><p>1.细胞是一个有机体，一切动植物都由细胞发育而来，并由细胞和细胞产物所构成。<br>2.细胞是一个相对独立的单位，既有它自己的生命，又对与其他细胞共同组成的整体的生命起作用。<br>3.新细胞是由老细胞分裂产生的。</p><a id="more"></a> <h2 id="意义"><a href="#意义" class="headerlink" title="意义"></a>意义</h2><p>1.揭示了细胞的统一性和生物体结构的统一性。<br>2.揭示了生物间存在着一定的亲缘关系。<br>3.标志着生物学研究进入细胞水平，极大地促进了生物学的研究进程，为达尔文的进化论奠定了基础。</p><h3 id="19世纪自然科学的三大发现："><a href="#19世纪自然科学的三大发现：" class="headerlink" title="19世纪自然科学的三大发现："></a>19世纪自然科学的三大发现：</h3><p>恩格斯将<strong>细胞学说</strong>、<strong>生物进化论</strong>、<strong>能量守恒和转化定律</strong>并称为19世纪自然科学的三大发现。</p><h1 id="细胞结构"><a href="#细胞结构" class="headerlink" title="细胞结构"></a>细胞结构</h1><h2 id="细胞壁"><a href="#细胞壁" class="headerlink" title="细胞壁"></a>细胞壁</h2><p>植物：纤维素，果胶<br>细菌和蓝藻：肽聚糖<br>真菌：几丁质（壳多糖）</p><h3 id="功能："><a href="#功能：" class="headerlink" title="功能："></a>功能：</h3><p><strong>保护细胞</strong>、<strong>支撑植物体</strong>，<strong>具有全透性</strong>。</p><h2 id="细胞膜"><a href="#细胞膜" class="headerlink" title="细胞膜"></a>细胞膜</h2><h3 id="组成："><a href="#组成：" class="headerlink" title="组成："></a>组成：</h3><p><strong>脂质（50%）</strong><br><strong>蛋白质（40%）</strong><br><strong>少量糖（2%~10%）</strong></p><h3 id="结构"><a href="#结构" class="headerlink" title="结构"></a>结构</h3><p><strong>七个实验</strong><br>​​<br>实验一<br>欧文顿<br>细胞膜由脂质组成<br>实验二<br>细胞会被溶解脂质的物质溶解，还被蛋白酶分解<br>细胞膜主要成分是脂质和蛋白质<br>实验三<br>丙酮抽提红细胞膜脂质实验<br>细胞膜磷脂分子必然排列为连续的两层<br>实验四<br>罗伯特森看到细胞膜暗亮暗三层结构<br>所有细胞膜由蛋白质-脂质-蛋白质构成<br>实验五<br>电镜冰冻蚀刻细胞膜<br>蛋白质不是全部平铺在脂质表面，有的镶嵌在磷脂双分子层中<br>实验六<br>人、鼠细胞融合实验<br>细胞膜具有流动性<br>实验七<br>桑格、尼克森<br>流动镶嵌模型</p><h3 id="流动镶嵌模型内容："><a href="#流动镶嵌模型内容：" class="headerlink" title="流动镶嵌模型内容："></a>流动镶嵌模型内容：</h3><p>①<strong>磷脂双分子层构成了生物膜的基本支架</strong>。其中，磷脂分子的亲水性头部朝向外侧，疏水亲脂性的尾部相对朝向内侧。磷脂双分子层具有流动性。<br>②<strong>蛋白质分子是膜功能的主要体现者</strong>。蛋白质分子以各种镶嵌形式与磷脂双分子层相结合，有的镶在磷脂双分子层表面，有的部分或全部嵌入磷脂双分子层中，有的贯穿于整个磷脂双分子层。这体现了膜内外结构的不对称性。另外，大多数蛋白质分子也是可以运动的。<br>③<strong>在细胞膜的外表面有一层由细胞膜上的蛋白质与糖类结合形成的糖蛋白</strong>，叫做糖被。糖被与细胞表面的识别、细胞间的信息传递等功能有密切关系。除糖蛋白外，细胞膜表面还有糖类和脂质分子结合形成的糖脂。</p><h3 id="结构和功能特点："><a href="#结构和功能特点：" class="headerlink" title="结构和功能特点："></a>结构和功能特点：</h3><p><strong>结构特点：流动性</strong><br><strong>功能特点：选择透过性</strong></p><h3 id="功能：-1"><a href="#功能：-1" class="headerlink" title="功能："></a>功能：</h3><p>（1）将细胞与<strong>外界分隔开</strong>，保持了内部环境的相对稳定。<br>（2）<strong>控制物质进出</strong>细胞。<br>（3）进行<strong>细胞间的信息传递</strong>。</p><h2 id="细胞质"><a href="#细胞质" class="headerlink" title="细胞质"></a>细胞质</h2><h3 id="1-细胞质基质"><a href="#1-细胞质基质" class="headerlink" title="1.细胞质基质"></a>1.细胞质基质</h3><p>细胞质基质主要由水、无机盐、脂质、糖类、氨基酸核苷酸和多种酶组成。<br>其主要功能是:为代谢提供场所、物质和一定的环境条件，影响细胞的形状、分裂、运动及细胞器的转运等。</p><h3 id="2-细胞器"><a href="#2-细胞器" class="headerlink" title="2.细胞器"></a>2.细胞器</h3><p>在细胞质中有许多具有一定结构和功能的微器官，如线粒体、内质网、叶绿体等，统称为细胞器。<br>（1）<strong>线粒体:**具有双层膜，普遍存在于动、植物细胞中，内有少量A和RNA内膜向内折叠形成嵴，内膜和基粒表面、基质中有许多种与有氧呼吸有关的酶，线粒体是细胞进行有氧呼吸的主要场所，是细胞的“动力车间”。细胞生命活动所需要的能量大约95％来自线粒体。<br>（2）</strong>叶绿体:<strong>具有双层膜，主要存在丁绿色植物叶肉细胞中。叶绿体是植物细胞进行光合作用的细胞器，是植物细胞的“养料制造车间”和“能量转换站”，含有叶绿素和类胡萝卜素，还含有少量DNA和RNA，叶绿素分布在类体薄膜上。在类囊体薄膜上和叶绿体内的基质中，含有光合作用需要的酶。<br>（3）</strong>核糖体（无膜）**:没有膜包被，有的附着在粗面内质网上，有的游离在细胞质基质中是细胞内将氨基酸合成蛋白质的场所。<br>（4）<strong>内质网</strong>:由膜结构连接而成的网状物，是细胞内蛋白质合成和加工，以及脂质合成的“车间”。<br>（5）<strong>高尔基体:**在植物细胞中与细胞壁的形成有关，在动物细胞中与蛋白质（分泌蛋白）的加工、分类、运输有关。<br>（6）</strong>中心体（无膜）**:每个中心体含两个中心粒，呈垂直排列，存在于动物细胞和低等植物细胞中，与细胞的有丝分裂有关。<br>（7）<strong>液泡:**由单层膜与其内的细胞液组成，主要存在于成熟的植物细胞中。细胞液中溶有无机盐、蛋白质、糖类以及各种色素，特别是花青素等。有维持细胞形态、储存养料、调节细胞渗透吸水的作用。<br>（8）</strong>溶酶体**:有“消化车间”之称，内含多种水解酶能分解衰老、损伤的细胞器，吞噬并杀死侵入细胞的病毒或细菌。<br>单层膜：内质网、高尔基体、液泡、溶酶体。</p><h2 id="细胞核"><a href="#细胞核" class="headerlink" title="细胞核"></a>细胞核</h2><p>核膜、染色质、核仁、核孔<br>功能：遗传信息库，是细胞代谢和遗传的控制中心。</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;细胞学说&quot;&gt;&lt;a href=&quot;#细胞学说&quot; class=&quot;headerlink&quot; title=&quot;细胞学说&quot;&gt;&lt;/a&gt;细胞学说&lt;/h1&gt;&lt;h2 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot; title=&quot;内容&quot;&gt;&lt;/a&gt;内容&lt;/h2&gt;&lt;p&gt;1.细胞是一个有机体，一切动植物都由细胞发育而来，并由细胞和细胞产物所构成。&lt;br&gt;2.细胞是一个相对独立的单位，既有它自己的生命，又对与其他细胞共同组成的整体的生命起作用。&lt;br&gt;3.新细胞是由老细胞分裂产生的。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="学习" scheme="https://maomaoxiaoxiao.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="生物" scheme="https://maomaoxiaoxiao.github.io/tags/%E7%94%9F%E7%89%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初见</title>
+    <link href="https://maomaoxiaoxiao.github.io/2021/02/03/%E5%88%9D%E8%A7%81/"/>
+    <id>https://maomaoxiaoxiao.github.io/2021/02/03/%E5%88%9D%E8%A7%81/</id>
+    <published>2021-02-03T07:36:06.000Z</published>
+    <updated>2021-02-05T08:48:04.522Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="初见"><a href="#初见" class="headerlink" title="初见"></a>初见</h1><p><img src="https://i.loli.net/2021/02/02/axTAV2oOPfjWNwk.gif" width="1080"></img></p><a id="more"></a> <h2 id="第一次搭建自己的博客"><a href="#第一次搭建自己的博客" class="headerlink" title="第一次搭建自己的博客"></a>第一次搭建自己的博客</h2><p>属于笑笑的博客搭建出来了，虽然只有一个基本框架，今后的日子，不断学习不断完善，加油！</p><h2 id="随便写写："><a href="#随便写写：" class="headerlink" title="随便写写："></a>随便写写：</h2><p>​    今年是自己毕业的一年，前途如何，没有任何想法，作为一个农学生真的挺难的。有时候真的后悔了学了农学。一分钱难倒英雄汉，今年临近毕业，深深感到一股压力扑面而来。</p><p>​    今天学着搭建了自己的博客，今后，学着记录生活，学着面对社会。</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;初见&quot;&gt;&lt;a href=&quot;#初见&quot; class=&quot;headerlink&quot; title=&quot;初见&quot;&gt;&lt;/a&gt;初见&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2021/02/02/axTAV2oOPfjWNwk.gif&quot; width=&quot;1080&quot;&gt;&lt;/img&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="毕业" scheme="https://maomaoxiaoxiao.github.io/tags/%E6%AF%95%E4%B8%9A/"/>
+    
+    <category term="随笔" scheme="https://maomaoxiaoxiao.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
